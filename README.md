@@ -15,7 +15,7 @@ a web app that lets users view and leave comments on the latest news.
 ### View setup
 1.	The image of the functioning app is provided below:
 
-![image]()
+![image](https://user-images.githubusercontent.com/50332749/68535817-69f43f80-0316-11ea-8034-8ac4e8a0ca27.png)
 
 
 
